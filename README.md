@@ -1,2 +1,2 @@
 # number-guessing-game
-Number guessing game project.
+I started this number guessing game as a first mini project applying my measurement of knowledge with Python conditionals and user input.
